@@ -1,7 +1,1 @@
-echo "# simoneburch" >> README.md
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin https://github.com/simoneburch/simoneburch.git
-  git push -u origin main
+Hi, thanks for coming! I'd like to share a few things I've been working on :)
