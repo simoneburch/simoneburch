@@ -3,13 +3,13 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/simoneburch/config-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>Importing users into an Organizational Unit in Active Directory</b>
   - [Active Directory: Create an OU](https://github.com/joshmadakorcc/osticket-prereqs)
   - [Active Directory: Create a CSV file of users](https://github.com/joshmadakorcc/post-install-config)
   - [Active Directory: Read the CSV contents, import into OU](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Insert records into a table in a SQL Server Database</b>
+- <b>Inserting records into a table in a SQL Server Database</b>
   - [SQL Server: Create a new Database](https://github.com/joshmadakorcc/osticket-prereqs)
   - [SQL Server: Create a Table within that Database](https://github.com/joshmadakorcc/osticket-prereqs)
   - [SQL Server: Read CSV file contents, insert records into Table](https://github.com/joshmadakorcc/osticket-prereqs)
