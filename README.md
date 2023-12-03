@@ -23,7 +23,10 @@
   - [Windows Imaging: Deployment Share and Adding OS](https://github.com/simoneburch/image-deployshares-os)
   - [Windows Imaging: Creating Task Sequences and MDT Rules](https://github.com/simoneburch/image-taskseq-MDTrules)
   - [Windows Imaging: Create and Test the Image](https://github.com/simoneburch/image-create-test)
-
+- <b>Setup VOIP - Asterisk PBX Telephony System</b>
+  - [VOIP: Compile, Unpack, and Config Asterisk in Azure Linux VM(Centos OS)](https://github.com/simoneburch/voip-compile-config)
+  - [VOIP: Create a Table within that Database](https://github.com/simoneburch/sql-newtable)
+    
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="simone-burch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
