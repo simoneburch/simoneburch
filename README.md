@@ -2,6 +2,10 @@
 
 <h2>Information Technology Projects:</h2>
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/simoneburch/config-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/simoneburch/azure-nsgs-protocols)
@@ -13,6 +17,12 @@
   - [SQL Server: Create a new Database](https://github.com/simoneburch/sql-newdb)
   - [SQL Server: Create a Table within that Database](https://github.com/simoneburch/sql-newtable)
   - [SQL Server: Read CSV file contents, insert records into Table](https://github.com/simoneburch/sql-readcsv-inserttable)
+- <b>Create and Configure Windows Deployment Image using MDT </b>
+  - [Windows Imaging: Prerequisites and Installation (MDT)](https://github.com/simoneburch/image-prereqs)
+  - [Windows Imaging: Installing MDT](https://github.com/simoneburch/image-installMDT)
+  - [Windows Imaging: Deployment Share and Adding OS](https://github.com/simoneburch/image-deployshares-os)
+  - [Windows Imaging: Creating Task Sequences and MDT Rules](https://github.com/simoneburch/image-taskseq-MDTrules)
+  - [Windows Imaging: Create and Test the Image](https://github.com/simoneburch/image-create-test)
 
 <h2>Connect with me:</h2>
 
