@@ -9,11 +9,11 @@
  
 - <b>Exploring Microsoft Azure Virtual Machines(VMs) and Networking Concepts</b>
   - [Spinning up Resources in Azure: Server 2019, Windows 10, Linux(Ubuntu)](https://github.com/simoneburch/azure-resources)
-  - [Remote Desktop Protocol (RDP), Network Security Groups (NSGs), and Command Line Tools](https://github.com/simoneburch/azure-rdp-nsgs-protocols)
-  - [Inspecting Network Protocols: Wireshark](https://github.com/simoneburch/azure-net-protocols)
+  - [Remote Desktop Protocol (RDP), Network Security Groups (NSGs), and Command Line Tools](https://github.com/simoneburch/azure-rdp-nsgs-commandline)
+  - [Inspecting Network Protocols: Wireshark](https://github.com/simoneburch/azure-net-protocols-wireshark)
 
 - <b>Exploring Virtual Private Networks</b>
-  - [VPN: Setup a VPN (Proton VPN) and observe usage](https://github.com/simoneburch/vpn-setup)
+  - [VPN: Setup a VPN (Proton VPN) and observe usage](https://github.com/simoneburch/vpn-setup-usage)
     
 - <b>Active Directory using Windows Server 2019</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/simoneburch/config-ad)
