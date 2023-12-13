@@ -14,7 +14,7 @@
   - [Testing users (VM) and admin rights (Domain Controller)](https://github.com/simoneburch/test-users-admin-ad)
  
 - <b>Networking Concepts using Azure Virtual Machines (VMs)</b>
-  - [Observe and filter network traffic using Wireshark, a network protocol analyzer](https://github.com/simoneburch/net-protocols-wireshark)
+  - [Observe and filter network traffic using Wireshark, a network protocol analyzer](https://github.com/simoneburch/net-protocols-traffic)
 
 - <b>Exploring Virtual Private Networks</b>
   - [VPN: Setup a VPN (Proton VPN) and Observe Usage](https://github.com/simoneburch/vpn-setup-usage)
