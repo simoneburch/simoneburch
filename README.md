@@ -3,10 +3,11 @@
 <h2>Information Technology Projects:</h2>
     
 - <b>Help Desk Ticketing System</b>
-  - [Jira: Navigating the Jira Service Management system](https://github.com/simoneburch/jira-demo)
   - [osTicket: Prerequisites and Installation](https://github.com/simoneburch/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/simoneburch/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/simoneburch/osticket-lifecycle-examples)
+
+<!--  - [Jira: Navigating the Jira Service Management system](https://github.com/simoneburch/jira-demo) -->
 
 - <b>Active Directory using Windows Server 2019</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/simoneburch/config-ad)
@@ -22,22 +23,22 @@
 - <b>Domain Name System (DNS)</b>
   - [DNS: Inspecting DNS A-Records and Mapping CNAME Records](https://github.com/simoneburch/dns-inspect)
     
-<!-- <b>Create and Configure Windows Image using MDT </b> -->
+<!-- <b>Create and Configure Windows Image using MDT </b> 
 
 - <b>VOIP - Asterisk PBX Telephony System</b>
-  - [VOIP: Configure Asterisk in Azure VM: Linux Centos OS](https://github.com/simoneburch/voip-compile-config)
+  - [VOIP: Configure Asterisk in Azure VM: Linux Centos OS](https://github.com/simoneburch/voip-compile-config) -->
  
-<!-- <h2>Powershell Scripts:</h2>
+<!-- <h2>Powershell:</h2>
 
 - <b>Importing users into an Organizational Unit in Active Directory</b>
-  - [Active Directory: Create an OU](https://github.com/simoneburch/ad-newou)
-  - [Active Directory: Create a CSV file of users](https://github.com/simoneburch/ad-newcsv)
-  - [Active Directory: Read the CSV contents, import into OU](https://github.com/simoneburch/ad-readcsv-importou)
+  - [Active Directory: Create an OU](https://github.com/simoneburch/ps-newou-ad)
+  - [Active Directory: Create a CSV file of users](https://github.com/simoneburch/ps-newcsv-ad)
+  - [Active Directory: Read the CSV contents, import into OU](https://github.com/simoneburch/ps-readcsv-importou-ad)
     
 - <b>Inserting records into a table in a SQL Server Database</b>
   - [SQL Server: Create a new Database](https://github.com/simoneburch/sql-newdb)
-  - [SQL Server: Create a Table within that Database](https://github.com/simoneburch/sql-newtable)
-  - [SQL Server: Read CSV contents, insert records into Table](https://github.com/simoneburch/sql-readcsv-inserttable) --> 
+  - [SQL Server: Create a Table within that Database](https://github.com/simoneburch/sql-newtable-db)
+  - [SQL Server: Read CSV contents, insert records into Table](https://github.com/simoneburch/sql-readcsv-inserttable-db) --> 
     
 <h2>Connect with me:</h2>
 
