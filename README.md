@@ -2,7 +2,7 @@
 
 <h2>Information Technology Projects:</h2>
     
-- <b>Help Desk Ticketing System</b>
+- <b>Help Desk Ticketing Systems</b>
   - [osTicket: Prerequisites and Installation](https://github.com/simoneburch/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/simoneburch/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/simoneburch/osticket-lifecycle-examples)
