@@ -13,7 +13,7 @@
 - <b>Active Directory using Windows Server 2019</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/simoneburch/config-ad)
   - [Creating users with a PowerShell script](https://github.com/simoneburch/create-users-ad)
-  - [Testing users (VM) and admin rights (Domain Controller)](https://github.com/simoneburch/test-users-admin-ad)
+  - [Testing user (VM) and admin (Domain Controller VM) rights](https://github.com/simoneburch/test-users-admin-ad)
   - [Software Deployment using the Domain Controller](https://github.com/simoneburch/soft-deploy-ad)
  
 - <b>Networking Concepts using Azure Virtual Machines (VMs)</b>
