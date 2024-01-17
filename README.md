@@ -42,6 +42,12 @@
 
 - <b>Network File Shares</b>
   - [Working with Network File Shares in Active Directory](https://github.com/simoneburch/netfileshares-ad)
+
+- <b>Zendesk: chat, email, tickets</b>
+  - [Working with Network File Shares in Active Directory](https://github.com/simoneburch/zendesk)
+
+- <b>VMware</b>
+  - [VMware basics and server VM installation](https://github.com/simoneburch/vmware-basics)
     
 <h2>Connect with me:</h2>
 
