@@ -12,8 +12,9 @@
 
 - <b>Active Directory using Windows Server 2019</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/simoneburch/config-ad)
-  - [Creating users using a PowerShell script](https://github.com/simoneburch/create-users-ad)
+  - [Creating users with a PowerShell script](https://github.com/simoneburch/create-users-ad)
   - [Testing users (VM) and admin rights (Domain Controller)](https://github.com/simoneburch/test-users-admin-ad)
+  - [Software Deployment using the Domain Controller](https://github.com/simoneburch/soft-deploy-ad)
  
 - <b>Networking Concepts using Azure Virtual Machines (VMs)</b>
   - [Network Protocols: Observe and filter network traffic using Wireshark](https://github.com/simoneburch/net-protocols-traffic)
