@@ -39,6 +39,9 @@
   - [SQL Server: Create a new Database](https://github.com/simoneburch/sql-newdb)
   - [SQL Server: Create a Table within that Database](https://github.com/simoneburch/sql-newtable-db)
   - [SQL Server: Read CSV contents, insert records into Table](https://github.com/simoneburch/sql-readcsv-inserttable-db) --> 
+
+- <b>Network File Shares</b>
+  - [Working with Network File Shares in Active Directory](https://github.com/simoneburch/netfileshares-ad)
     
 <h2>Connect with me:</h2>
 
