@@ -7,7 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/simoneburch/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/simoneburch/osticket-lifecycle-examples)
 
-<!--  - [Jira: Navigating the Jira Service Management system](https://github.com/simoneburch/jira-demo) -->
+<!--  - [Jira: Navigating the Jira Service Management system](https://github.com/simoneburch/jira-demo) 
+      - [Zendesk: chat, email, tickets](https://github.com/simoneburch/zendesk) -->
 
 - <b>Active Directory using Windows Server 2019</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/simoneburch/config-ad)
@@ -15,13 +16,12 @@
   - [Testing users (VM) and admin rights (Domain Controller)](https://github.com/simoneburch/test-users-admin-ad)
  
 - <b>Networking Concepts using Azure Virtual Machines (VMs)</b>
-  - [Observe and filter network traffic using Wireshark, a network protocol analyzer](https://github.com/simoneburch/net-protocols-traffic)
-
-- <b>Exploring Virtual Private Networks</b>
+  - [Network Protocols: Observe and filter network traffic using Wireshark](https://github.com/simoneburch/net-protocols-traffic)
   - [VPN: Setup a VPN (Proton VPN) and Observe Usage](https://github.com/simoneburch/vpn-setup-usage)
-    
-- <b>Domain Name System (DNS)</b>
   - [DNS: Inspecting DNS A-Records and Mapping CNAME Records](https://github.com/simoneburch/dns-inspect)
+
+<!-- - <b>VMware</b>
+  - [VMware basics and server VM installation](https://github.com/simoneburch/vmware-basics) -->
     
 <!-- <b>Create and Configure Windows Image using MDT </b> 
 
@@ -39,15 +39,6 @@
   - [SQL Server: Create a new Database](https://github.com/simoneburch/sql-newdb)
   - [SQL Server: Create a Table within that Database](https://github.com/simoneburch/sql-newtable-db)
   - [SQL Server: Read CSV contents, insert records into Table](https://github.com/simoneburch/sql-readcsv-inserttable-db) --> 
-
-- <b>Network File Shares</b>
-  - [Working with Network File Shares in Active Directory](https://github.com/simoneburch/netfileshares-ad)
-
-- <b>Zendesk: chat, email, tickets</b>
-  - [Working with Network File Shares in Active Directory](https://github.com/simoneburch/zendesk)
-
-- <b>VMware</b>
-  - [VMware basics and server VM installation](https://github.com/simoneburch/vmware-basics)
     
 <h2>Connect with me:</h2>
 
