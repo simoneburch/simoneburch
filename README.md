@@ -10,7 +10,7 @@
 <!--  - [Jira: Navigating the Jira Service Management system](https://github.com/simoneburch/jira-demo) 
       - [Zendesk: chat, email, tickets](https://github.com/simoneburch/zendesk) -->
 
-- <b>Active Directory using Windows Server 2019</b>
+- <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/simoneburch/config-ad)
   - [Creating users with a PowerShell script](https://github.com/simoneburch/ps-adusers)
   - [Testing user (VM) and admin (Domain Controller VM) rights](https://github.com/simoneburch/test-users-admin-ad)
