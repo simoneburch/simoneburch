@@ -13,12 +13,12 @@
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/simoneburch/config-ad)
   - [Creating users with a PowerShell script](https://github.com/simoneburch/ps-adusers)
-  - [Software Deployment using the Domain Controller](https://github.com/simoneburch/soft-deploy-ad)
+<!-- - [Software Deployment using the Domain Controller](https://github.com/simoneburch/soft-deploy-ad) -->
  
 - <b>Networking Concepts using Azure Virtual Machines (VMs)</b>
   - [Network Protocols: Observe and filter network traffic using Wireshark](https://github.com/simoneburch/net-protocols-traffic)
   - [VPN: Setup a VPN (Proton VPN) and Observe Usage](https://github.com/simoneburch/vpn-setup-usage)
-  - [DNS: Inspecting DNS A-Records and Mapping CNAME Records](https://github.com/simoneburch/dns-inspect)
+<!-- - [DNS: Inspecting DNS A-Records and Mapping CNAME Records](https://github.com/simoneburch/dns-inspect) -->
 
 <!-- - <b>VMware</b>
   - [VMware basics and server VM installation](https://github.com/simoneburch/vmware-basics) -->
