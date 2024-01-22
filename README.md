@@ -15,7 +15,7 @@
   - [Creating users with a PowerShell script](https://github.com/simoneburch/ps-adusers)
 <!-- - [Software Deployment using the Domain Controller](https://github.com/simoneburch/soft-deploy-ad) -->
  
-- <b>Networking Concepts using Azure Virtual Machines (VMs)</b>
+- <b>Microsoft Azure and Networking Concepts</b>
   - [Network Protocols: Observe and filter network traffic using Wireshark](https://github.com/simoneburch/net-protocols-traffic)
   - [VPN: Setup a VPN (Proton VPN) and Observe Usage](https://github.com/simoneburch/vpn-setup-usage)
 <!-- - [DNS: Inspecting DNS A-Records and Mapping CNAME Records](https://github.com/simoneburch/dns-inspect) -->
