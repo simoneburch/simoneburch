@@ -5,7 +5,7 @@
 - <b>Help Desk Ticketing Systems</b>
   - [osTicket: Prerequisites and Installation](https://github.com/simoneburch/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/simoneburch/osticket-post-install-config)
-  - [osTicket: Lifecycle Management](https://github.com/simoneburch/osticket-lifecycle-examples)
+  - [osTicket: Lifecycle Management](https://github.com/simoneburch/osticket-lifecycle-mgmt)
 
 <!--  - [Jira: Navigating the Jira Service Management system](https://github.com/simoneburch/jira-demo) 
       - [Zendesk: chat, email, tickets](https://github.com/simoneburch/zendesk) -->
