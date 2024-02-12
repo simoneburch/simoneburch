@@ -11,7 +11,7 @@
       - [Zendesk: chat, email, tickets](https://github.com/simoneburch/zendesk) -->
 
 - <b>Active Directory</b>
-  - [On-premises Active Directory Deployed in Azure](https://github.com/simoneburch/config-ad)
+  - [On-premises Active Directory Deployed in Azure](https://github.com/simoneburch/config-onprem-ad)
   - [Creating users with a PowerShell script](https://github.com/simoneburch/ps-adusers)
 <!-- - [Software Deployment using the Domain Controller](https://github.com/simoneburch/soft-deploy-ad) -->
  
